@@ -57,13 +57,13 @@ This self-starting leader must be a results-oriented strategic thinker with an e
 #### Responsibilities
 
 ##### Product Marketing and Positioning
-- Define target segments and buyer and influencer personas for marketing and sales outreach
 - Develop market positioning, messaging and marketing campaigns for target segments, including ownership of our social media presence via Twitter, Facebook, and other relevant outlets as needed (eg: Reddit, ProductHunt, Quora) 
 - Iteratively adjust and refine our market positioning and messaging based on customer data and analysis (via customer interviews, A/B testing, metrics, etc) to increase customer acquisition, activation, and retention
 - Perform competitive analysis and the development of competitive selling tools 
 - Perform market, customer, and competitive research to differentiate Waffle’s offerings, as well as to anticipate competitive response
 - Share learning and best practices with the team, continually improve processes and content, and provide clear and consistent reporting to broader stakeholders 
-- Product Life Cycle Communications
+
+##### Product Life Cycle Communications
 - Drive creation of sales, customer and partner facing messaging and communications 
 - Define product positioning and key messages, to develop product data sheets, sales aids/enablement materials, and key messages to external stakeholders (media, customers, prospects & partners)
 - Develop effective communications including online outreach, events, webinars, and other activities as seen fit for our target and future customer base 
