@@ -58,7 +58,7 @@ You have deep technical expertise in containers and distributed systems. You are
 
 #### Signs of an Awesome Candidate
 - You have experience with Docker, CoreOS, Kubernetes or similar
-- You have experience in cloud architecture and deployments
+- You have experience in cloud architecture and deployments, particularly on AWS
 - You’re able to think on your feet to debug customers issues in realtime
 - You are resourceful at debugging systems and networks with common *NIX tools
 - You understand and have worked with microservice architectures
