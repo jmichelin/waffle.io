@@ -1,5 +1,7 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
+__We're looking for talented DevOps Engineers to join the Waffle team!__ Details below.
+
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
@@ -46,4 +48,30 @@ We use our own product to manage our work. Anyone in the world can see what we�
 
 ## Open Positions
 
-_We don't have any open positions at this time. If you would one day love to work with the Waffle team, reach out! We'd love to meet you._
+### DevOps Engineer
+
+#### Description
+At Waffle, we develop a micro service architecture that’s deployed as a SaaS product and also shipped behind the firewall for our enterprise version. Our on-premises delivery is state of the art, built with Docker components running on Replicated. We’re looking for a new teammate who can help us continue to build out this architecture, support our on-premises customers as we start to scale, and also contribute towards scaling our cloud infrastructure.
+
+#### About You
+You have deep technical expertise in containers and distributed systems. You are passionate about working with customers. You possess strong engineering skills, and have built software using nodeJS.
+
+#### Signs of an Awesome Candidate
+- You have experience with Docker, CoreOS, Kubernetes or similar
+- You have experience in cloud architecture and deployments
+- You’re able to think on your feet to debug customers issues in realtime
+- You are resourceful at debugging systems and networks with common *NIX tools
+- You understand and have worked with microservice architectures
+- You have knowledge of DNS, CDN, load balancing, firewalls, VPNs, SMTP, SSL, etc. — all the things that make the web work.
+- You are a troubleshooter at heart and enjoy diving in the deep end, figuring things out, and solving problems.
+- You possess an ability to learn in a fast-paced, dynamic environment.
+
+#### Above and Beyond:
+- You have experience building with and scaling MongoDB deployments
+- You’ve written software using NodeJS and Angular
+- You're experienced with writing tests for your code
+- You contribute to and are involved with open source communities
+- You’ve spoken at conferences and enjoy being a brand ambassador
+
+## How to Apply
+Reach out to us at team@waffle.io! We'd love to chat.
