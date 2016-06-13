@@ -40,7 +40,7 @@ We run as a startup inside a big company. That means we do our own sales, market
 
 ### The Tech
 
-Waffle.io runs on a NodeJS, AngularJS, CoffeeScript, MongoDB, and Docker stack. We’re hosted using cloud services, but also ship behind the firewall. We have a microservice architecture that’s continuously deployed.
+Waffle.io runs on a Node.js, Angular, CoffeeScript, MongoDB, and Docker stack. We’re hosted using cloud services, but also ship behind the firewall. We have a microservice architecture that’s continuously deployed.
 
 ### The Process
 
@@ -68,7 +68,7 @@ You have deep technical expertise in containers and distributed systems. You are
 
 #### Above and Beyond:
 - You have experience building with and scaling MongoDB deployments
-- You’ve written software using NodeJS and Angular
+- You’ve written software using Node.js and Angular
 - You're experienced with writing tests for your code
 - You contribute to and are involved with open source communities
 - You’ve spoken at conferences and enjoy being a brand ambassador
