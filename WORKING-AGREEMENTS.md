@@ -19,7 +19,7 @@ Since Waffle is continuously deployed via [Codeship](https://codeship.com) when 
 ### All PRs should be code reviewed and functionally reviewed before merging
 Ideally PRs should also be deployed to our staging environment, if possible.
 
-Wait until someone gives you a :+1: before merging.
+Wait until someone other than the individual or pair doing the work approves the PR. When changing code that a specific person or group of people "own" or have are most invested in, specifically request reviews from that person or group.
 
 PR's should contain [comprehensible commit
 messages](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
