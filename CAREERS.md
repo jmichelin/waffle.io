@@ -1,5 +1,9 @@
 ![flatirons in winter - https://www.flickr.com/photos/zachd1_618/4252473399/in/photolist-7tM3bT-7hCAVb-e3jhvG-8bzpG2-dvCihu-KGasm-jHW6UH-he4ohN-fzVBWP-nd4X41-dp2r8F-oQyTHe-qKsJcY-xisXK7-8h8xa5-fxPGcc-5R5BeK-68dTvN-i32ScC-5zMags-8Mfmma-eSceLW-kgn8H5-8NgfRe-eTdPWD-gv9iA-dmTSN4-5AaAye-8KoSSF-pp9mLP-5sP1Zu-4YxP4y-23uWfz-cfXKx3-aVbEdK-enCFpU-9BdV14-br88Uv-vFcHbn-iwLWsh-9XwPUE-qttExy-oyZre6-pGsQ2U-v238Zh-wCx5TR-5Guj3D-vyv1y7-eidME1-7km9Eh](https://cloud.githubusercontent.com/assets/84629/9413979/79d370d0-47f2-11e5-9a9c-ae79236aaedd.jpg)
 
+## We're hiring!
+
+We're looking for two junior devs to join our full stack engineering team in Boulder, CO. [Check out the details below](#open-positions)!
+
 ## Who Are We?
 
 At Waffle.io, we're reinventing the way engineering teams track work. We believe developers shouldn't have to do extra work to update others on their status, so Waffle does it for them.
@@ -44,6 +48,20 @@ Waffle.io runs on a Node.js, Angular, CoffeeScript, MongoDB, and Docker stack. W
 
 We use our own product to manage our work. Anyone in the world can see what we’re up to here: https://waffle.io/waffleio/waffle.io.
 
-## Open Positions
+### Open Positions
 
-_We're not hiring right now, but we'd still like to meet you! You can talk to us at team@waffle.io_
+We're hiring for two junior full stack engineers to join our team in Boulder, CO.
+
+Two, you say? Yes, and we're looking for two devs *to interview together!*. Do you have a friend you work super well with, or someone else in your coding school that you'd love to work with more? Join Waffle together!
+
+You'll be an awesome fit if you:
+- are awesome at JavaScript, and want to get better.
+- are experienced with AngularJS and NodeJS. TypeScript is a plus!
+- are experienced with MongoDB.
+- intimately understand how a modern JS app communicates with a RESTful API.
+- enjoy working with others to solve problems. At Waffle we pair on problems together frequently.
+- enjoy understanding how customers use the code you write. At Waffle we're all about solving the right problem for the right customer, and it's everyone's job to put the customer first.
+- have contributed to open source. We're widely adopted by the open source community and we love candidates who give back!
+
+Interested? Reach out to us at team@waffle.io
+
