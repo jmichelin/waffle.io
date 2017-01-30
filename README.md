@@ -19,8 +19,6 @@ Interact with your Issues and Pull Requests from one or more repositories in the
 
 <img width="1243" alt="serenitynew" src="https://cloud.githubusercontent.com/assets/4775572/22411593/ca2d2444-e662-11e6-91fb-aaf8017a71c1.png">
 
-
-
 #### Easy Set Up
 
 Sick of project management tools with unreliable GitHub Integrations? Waffle is built on top of the GitHub API, so your work and its status will always be in sync. Just sign in to Waffle using GitHub -- within 5 minutes, you can transform your long lists of GitHub Issues and Pull Requests into a big picture view of what's planned, what's being worked on, and what's up next. 
