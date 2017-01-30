@@ -17,7 +17,7 @@ Waffle is a project management tool *powered by your GitHub Issues and Pull Requ
 
 Interact with your Issues and Pull Requests from one or more repositories in the form of cards on a board. Plan, organize, and track work together as a team in a view that works for everyone.
 
-<img width="1262" alt="screen shot 2015-08-10 at 11 18 33 am" src="https://cloud.githubusercontent.com/assets/100216/9175016/6013dd5a-3f51-11e5-9286-bff3fe271aa9.png">
+<img width="1243" alt="serenitynew" src="https://cloud.githubusercontent.com/assets/4775572/22411593/ca2d2444-e662-11e6-91fb-aaf8017a71c1.png">
 
 #### Easy Set Up
 
@@ -59,4 +59,4 @@ Waffle also offers the option to embed a throughput graph to your README. The gr
 --
 ### Questions?
 
-Check out our [FAQs](https://github.com/waffleio/waffle.io/wiki/FAQs) or feel free to [contact us](mailto:support@waffle.io).
+Check out our [FAQs](https://help.waffle.io) or feel free to [contact us](mailto:support@waffle.io).
