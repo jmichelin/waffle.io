@@ -17,7 +17,8 @@ Waffle is a project management tool *powered by your GitHub Issues and Pull Requ
 
 Interact with your Issues and Pull Requests from one or more repositories in the form of cards on a board. Plan, organize, and track work together as a team in a view that works for everyone.
 
-![screen shot 2017-01-24 at 3 10 35 pm](https://cloud.githubusercontent.com/assets/4775572/22269176/8be4215c-e247-11e6-8180-fc5d90cdc195.png)
+<img width="1243" alt="serenitynew" src="https://cloud.githubusercontent.com/assets/4775572/22411593/ca2d2444-e662-11e6-91fb-aaf8017a71c1.png">
+
 
 
 #### Easy Set Up
