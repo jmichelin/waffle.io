@@ -24,6 +24,10 @@ Wait until someone other than the individual or pair doing the work approves the
 PR's should contain [comprehensible commit
 messages](https://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message)
 
+Reviewers should _optimistically_ approve PR's. Use these guidelines when submitting your review:
+- __"Request Changes”__ when there are significant changes that should be reviewed a second time. By doing this, you are blocking the PR from being merged until you re-review it and approve.
+- __“Approve”__ if there are no changes or if the changes are minor enough that they don’t need to be reviewed again before merging.
+
 ### Review PRs after standup, if not sooner
 As a distributed team, it's sometimes easy to miss reviewing a peer's PR. We don't want to stop the flow of work to have PRs reviewed immediately, but they should be looked at right after our morning Standup if they're still un-reviewed. The Waffle "Needs Review" column is the best place to see if there are open PRs that need someone's attention.
 
