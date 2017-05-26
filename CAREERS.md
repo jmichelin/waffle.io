@@ -34,7 +34,7 @@ We’re building a product that we ourselves use every day, and we know we need 
 
 We’re a distributed team, with teammates in Boulder, CO and Raleigh, NC.
 
-We run as a startup inside a big company. That means we do our own sales, marketing, devops, and of course product, development, and support. Each of us wears many hats.
+We run as a startup inside a big company. That means we do our own sales, marketing, devops, and of course product development, and support. Each of us wears many hats.
 
 ### The Tech
 
